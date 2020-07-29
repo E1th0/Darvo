@@ -1,2 +1,8 @@
-# Darvo
-Reconocimiento facial proximo a servicio de  post-morteum
+#Requerimientos:
+OpenCV Y Python Actualizados
+
+Instalar OpenCV:
+pip install opencv-contrib-python
+
+Instalar Python:
+python.org
